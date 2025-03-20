@@ -21,7 +21,7 @@ PINK="\e[35m"
 NC="\e[0m"
 
 # Вывод приветственного текста
-echo -e "${PINK}$(figlet -w 150 -f standard "Softs by Sk1fas")${NC}"
+echo -e "${PINK}$(figlet -w 150 -f standard "Soft by Sk1fas")${NC}"
 
 echo "================================================================="
 echo "Добро пожаловать! Подпишись на мой Telegram-канал: https://t.me/Sk1fasCryptoJourney"
